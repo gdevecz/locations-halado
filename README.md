@@ -1,0 +1,3 @@
+# Locations
+
+Példa alkalmazás.
